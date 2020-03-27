@@ -1,1 +1,3 @@
-# RailsHW #
+# RailsHW 
+
+# Starting Rails project 
